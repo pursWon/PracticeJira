@@ -1,6 +1,6 @@
 # PracticeJira
 Jira 연습용 repository
 
-안녕
+잘가
 
 프란체스카
